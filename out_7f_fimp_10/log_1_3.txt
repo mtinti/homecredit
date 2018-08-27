@@ -1,0 +1,4 @@
+Fold  1 AUC : 0.793439 
+Fold  2 AUC : 0.796228 
+Fold  3 AUC : 0.796358
+Full AUC score 0.795303
