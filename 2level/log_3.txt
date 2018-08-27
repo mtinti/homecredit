@@ -1,0 +1,13 @@
+Fold  1 AUC : 0.801539
+Fold  2 AUC : 0.795804
+Fold  3 AUC : 0.807400
+Fold  4 AUC : 0.788804
+Fold  5 AUC : 0.802719
+Fold  6 AUC : 0.803680
+Fold  7 AUC : 0.800808
+Fold  8 AUC : 0.807331
+Fold  9 AUC : 0.806148
+Fold 10 AUC : 0.795879
+Fold 11 AUC : 0.800890
+Fold 12 AUC : 0.803722
+Full AUC score 0.795952
